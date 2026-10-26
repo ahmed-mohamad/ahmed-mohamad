@@ -1,14 +1,12 @@
-<h1 align="center">Ahmed 👋</h1>
-
-<p align="center">
-  💻 Beginner Developer | Aspiring Backend .NET Developer
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=110&section=header&text=Welcome%20to%20my%20Profile&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
+
+<h1 align="center">Hi, I'm Ahmed</h1>
 <p align="center">
+  💻 Beginner Developer | Aspiring Backend .NET Developer<br>
   🌱 Learning and building my programming foundation<br>
   ⚡ Exploring C++ and programming fundamentals<br>
   🚀 Working towards becoming a Backend .NET Developer
@@ -16,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Backend .Net-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -51,6 +49,19 @@ My current focus is on understanding programming fundamentals and building a sol
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-mohamad&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+📫 Contact Me
+
+<p align="center">
+  <a href="mailto:ahmedmohamed.tuf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedmohamad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
