@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Welcome%20Ahmed!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=110&section=header&text=Welcome%20to%20my%20Profile&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 💻 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,bash,html,css,git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,bash,html,css,git,github,visualstudio,vscode&perline=8" height="35" />
 </p>
 
 ---
