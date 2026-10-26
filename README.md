@@ -5,13 +5,17 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Welcome%20Ahmed!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
   🌱 Learning and building my programming foundation<br>
   ⚡ Exploring C++ and programming fundamentals<br>
   🚀 Working towards becoming a Backend .NET Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
